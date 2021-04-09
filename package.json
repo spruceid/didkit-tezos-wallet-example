@@ -1,0 +1,11 @@
+{
+  "name": "didkit-tezos-wallet-example",
+  "author": "Spruce Systems, Inc.",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@taquito/taquito": "^8.1.0",
+    "@temple-wallet/dapp": "^2.2.3",
+    "didkit-wasm": "file:../didkit/lib/web/pkg/wasm",
+    "nanoid": "^3.1.22"
+  }
+}
